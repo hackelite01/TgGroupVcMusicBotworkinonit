@@ -1,0 +1,26 @@
+{
+  "name": "Group Music Vc Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/index.js",
+    "build": "tsc",
+    "test": "tsc --noEmit"
+  },
+  "author": "Mayank Rajput <HackElite>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "envalid": "^7.0.0",
+    "telegraf": "^4.0.2",
+    "tgcalls": "github:tgcallsjs/tgcalls#7ff06871620489dc624c2b5828bdf09cfdd07a05",
+    "ws": "^7.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.25",
+    "@types/ws": "^7.4.0",
+    "ts-node": "^9.1.1",
+    "typegram": "^3.1.9",
+    "typescript": "^4.1.3"
+  }
+}
