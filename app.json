@@ -7,7 +7,7 @@
             "value":""
         },
         "WEBSOCKET_URL":{
-            "description":"websocket url from https://github.com/hackelite01/TgGroupVcMusicBot",
+            "description":"websocket url from https://github.com/hackelite01/TgGroupMusicVcBotServer",
             "value": "http://appname.herokuapp.com"
         }
     },
